@@ -19,10 +19,12 @@ leadership.
 **Table of Contant**
 
 Page Name Contant
-|---| --- |----|
 
-| 'Read1'| [link](https://tareq-jaduoo.github.io/reading-note/Read1)|
-|Read2| [link] (https://tareq-jaduoo.github.io/reading-note/Read2)|
+
+| Page  | [link] |
+| ----------- | ----------- |
+| Read1  | [link](https://tareq-jaduoo.github.io/reading-note/Read1)  |
+| Read2  | [link](https://tareq-jaduoo.github.io/reading-note/Read2) |
 
 ## Kind Regards,
 ### Tareq Jaduoo
