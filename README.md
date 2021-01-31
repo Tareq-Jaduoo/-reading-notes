@@ -28,6 +28,8 @@ Page Name Contant
 | Read3  | [link](https://tareq-jaduoo.github.io/reading-note/Read3)   |
 | Readj4 | [link](https://tareq-jaduoo.github.io/reading-note/Readj4)  |
 | Readj5 | [link](https://tareq-jaduoo.github.io/reading-note/Readj5)  |
+| Readc6 | [link](https://tareq-jaduoo.github.io/reading-note/Readc6)  |
+| Readf6 | [link](https://tareq-jaduoo.github.io/reading-note/Readf6)  |
 ## Kind Regards,
 ### Tareq Jaduoo
 [link](https://github.com/Tareq-Jaduoo)
